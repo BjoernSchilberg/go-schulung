@@ -9,8 +9,9 @@ Richtig eingerichtete Editoren und IDEs sind wichtig und reduzieren das "Fruster
 
 Weitere Interessante ergänze Plugins für die Entwicklung unter vim
 
-* https://github.com/Shougo/neocomplete.vim
-* https://github.com/scrooloose/nerdtree
+* <https://github.com/Shougo/neocomplete.vim>
+* <https://github.com/scrooloose/nerdtree>
+* <https://github.com/szw/vim-tags>
 
 
 ##Go for Visual Studio Code

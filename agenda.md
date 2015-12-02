@@ -2,23 +2,23 @@
 
 Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 
-#1Tag
+#Tag1
 
 ##Einführung
 
 * Effective Go
-  * https://golang.org/doc/effective_go.html
+  * <https://golang.org/doc/effective_go.html>
 
 * How to Write Go Code
-  * https://golang.org/doc/code.html
+  * <https://golang.org/doc/code.html>
 
 * The Go Programming Language Specification
-   * https://golang.org/ref/spec
+   * <https://golang.org/ref/spec>
 
 ##Buchempfehlung
 
 * The Go Programming Language (Alan A. A. Donovan · Brian W. Kernighan)
-  * http://www.gopl.io/
+  * <http://www.gopl.io/>
 
 ##Umgebung einrichten/Setup
 
@@ -29,28 +29,30 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 
 ##Getting Started
 
-* https://golang.org/doc/install
-   siehe umgebung_einrichten.md
+* <https://golang.org/doc/install>
+   * siehe [umgebung_einrichten.md](umgebung_einrichten.md)
 
 
 ##Beispiele aus "A Tour of GO"
+
+* <https://tour.golang.org>
 
 
 ##Beispiele aus "A Tour of GO" auf dem realen Setup durchführen
 
 * Themen: Concurrency (Channels/Select)
 * Übung: Equivalent Binary Trees
-  * https://tour.golang.org/concurrency/7
-  * https://tour.golang.org/concurrency/8
+  * <https://tour.golang.org/concurrency/7>
+  * <https://tour.golang.org/concurrency/8>
  
  
 ##Tooling
 
 Quelle: Profiling & Optimizing in Go / Brad Fitzpatrick
 
-* https://www.youtube.com/watch?v=xxDZuPEgbBU
-* https://github.com/bradfitz/talk-yapc-asia-2015/blob/master/talk.md
-* https://goo.gl/PYpNXT
+* <https://www.youtube.com/watch?v=xxDZuPEgbBU>
+* <https://github.com/bradfitz/talk-yapc-asia-2015/blob/master/talk.md>
+* <https://goo.gl/PYpNXT>
 
 
 ###Themen
@@ -66,7 +68,7 @@ Quelle: Profiling & Optimizing in Go / Brad Fitzpatrick
 * go Vet
 
 
-#2Tag
+#Tag2
 
 
 ##Lernen an realen Beispielen
@@ -76,9 +78,9 @@ Ziel: Typische Wiederverwendbare Muster mit Fokus auf Webandwendungen identifizi
 
 ###Beispiele
 
-* https://bitbucket.org/s_l_teichmann/pointstream/
-* https://bitbucket.org/s_l_teichmann/intests
-* https://bitbucket.org/s_l_teichmann/mtsatellite
+* <https://bitbucket.org/s_l_teichmann/pointstream>
+* <https://bitbucket.org/s_l_teichmann/intests>
+* <https://bitbucket.org/s_l_teichmann/mtsatellite>
 
 
 ##Übungen
@@ -91,14 +93,14 @@ Ziel: Typische Wiederverwendbare Muster mit Fokus auf Webandwendungen identifizi
 
 ###Einbinden von externen Bibliotheken
 
-Am Beispiel von http://www.gorillatoolkit.org/pkg/mux
+Am Beispiel von <http://www.gorillatoolkit.org/pkg/mux>
 
 
 ###context-Bibliothek
 
 Themen: Requests, Global state über den Request definieren. Time-Out.
 
-* https://godoc.org/golang.org/x/net/context
+* <https://godoc.org/golang.org/x/net/context>
 
 Die context-Bibliothek ist Geeignet für produktiven Code mit mehreren 1000 Clients.
 
@@ -111,9 +113,9 @@ Die context-Bibliothek ist Geeignet für produktiven Code mit mehreren 1000 Clie
 
 ### Versionierung
 
-* http://www.gonuts.io
-* https://github.com/tools/godep
-* http://getgb.io/
+* <http://www.gonuts.io>
+* <https://github.com/tools/godep>
+* <http://getgb.io>
 
 ####Themen
 
@@ -123,7 +125,7 @@ Die context-Bibliothek ist Geeignet für produktiven Code mit mehreren 1000 Clie
 * Wie können System aufgebaut werden, welche diese Invarianten garantieren.
 
 Weitere Infos:
-https://github.com/golang/go/wiki/PackageManagementTools
+* <https://github.com/golang/go/wiki/PackageManagementTools>
 
 ###Erfolg von GO
 Go hat innerhalb von kurzer Zeit zu einem der größeren Community-Projekte der
@@ -145,5 +147,5 @@ ein entsprechender Cross Compiler für die externen nicht nativen
 go-Abhängigkeiten benötigt wird und für die entsprechende Zielarchitektur
 verfügbar sein muss. 
 
-* https://bitbucket.org/s_l_teichmann/pointstream/
-* https://bitbucket.org/s_l_teichmann/zday
+* <https://bitbucket.org/s_l_teichmann/pointstream>
+* <https://bitbucket.org/s_l_teichmann/zday>

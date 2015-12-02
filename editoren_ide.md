@@ -4,6 +4,14 @@ Richtig eingerichtete Editoren und IDEs sind wichtig und reduzieren das "Fruster
 
 ##vim-go
 
+* <https://github.com/fatih/vim-go>
+  * Hinweis: benötigt einen Paketmanager wie bspw. Pathogen: <https://github.com/fatih/vim-go>
+
+Weitere Interessante ergänze Plugins für die Entwicklung unter vim
+
+* https://github.com/Shougo/neocomplete.vim
+* https://github.com/scrooloose/nerdtree
+
 
 ##Go for Visual Studio Code
 

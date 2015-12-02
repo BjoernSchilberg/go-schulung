@@ -72,7 +72,7 @@ $GOPATH/bin/hello
 
 ##Verzeichnisstruktur/Code Organisation 
 
-* https://golang.org/doc/code.html
+* <https://golang.org/doc/code.html>
 
 ```
 work/

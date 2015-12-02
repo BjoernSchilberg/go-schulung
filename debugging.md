@@ -5,32 +5,32 @@
 
 ##delve
 
-* https://github.com/derekparker/delve/
-  * https://github.com/derekparker/delve/wiki/Building
+* <https://github.com/derekparker/delve>
+    * <https://github.com/derekparker/delve/wiki/Building>
 
 * Beste Lösung.
 * Nicht Offiziell.
 * Integrierte Lösung für Intellij Idea verfügbar.
 * Windows-Unterstützung in Arbeit.
-  * https://github.com/derekparker/delve/issues/198 (Meta-Ticket)
-  * https://github.com/derekparker/delve/pull/276 (Windows-Port vom selben Entwickler wie das Visual Studio Code-Plugin)
+    * <https://github.com/derekparker/delve/issues/198> (Meta-Ticket)
+    * <https://github.com/derekparker/delve/pull/276> (Windows-Port vom selben Entwickler wie das Visual Studio Code-Plugin)
 
 
 ##ogle 
 
-* https://github.com/golang/debug
+* <https://github.com/golang/debug>
 * Fazit: Nicht nutzbar
 
 ##godebug
 
-* https://github.com/mailgun/godebug
+* <https://github.com/mailgun/godebug>
 
 Instrumentierungswerkzeug. Bevor das Programm in go übersetzt wird, durchläuft
 es einen Generator, welcher den Code mit println-Statements versieht.
 
 ##gdb
 
-* https://golang.org/doc/gdb
+* <https://golang.org/doc/gdb>
 
 * Eine go-rountine kann im Laufe ihres Leben in mehreren Threads leben.
 * gdb ist dafür nicht nutzbar.

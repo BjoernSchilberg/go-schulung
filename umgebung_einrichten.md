@@ -1,6 +1,6 @@
 #Getting Started
 
-* https://golang.org/doc/install
+* <https://golang.org/doc/install>
 
 
 ##Git und Mercurial installieren

@@ -7,18 +7,18 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 ##Einführung
 
 * Effective Go
-  * <https://golang.org/doc/effective_go.html>
+    * <https://golang.org/doc/effective_go.html>
 
 * How to Write Go Code
-  * <https://golang.org/doc/code.html>
+    * <https://golang.org/doc/code.html>
 
 * The Go Programming Language Specification
-   * <https://golang.org/ref/spec>
+    * <https://golang.org/ref/spec>
 
 ##Buchempfehlung
 
 * The Go Programming Language (Alan A. A. Donovan · Brian W. Kernighan)
-  * <http://www.gopl.io/>
+    * <http://www.gopl.io/>
 
 ##Umgebung einrichten/Setup
 
@@ -30,7 +30,7 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 ##Getting Started
 
 * <https://golang.org/doc/install>
-   * siehe [umgebung_einrichten.md](umgebung_einrichten.md)
+    * siehe [umgebung_einrichten.md](umgebung_einrichten.md)
 
 
 ##Beispiele aus "A Tour of GO"
@@ -42,8 +42,8 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 
 * Themen: Concurrency (Channels/Select)
 * Übung: Equivalent Binary Trees
-  * <https://tour.golang.org/concurrency/7>
-  * <https://tour.golang.org/concurrency/8>
+    * <https://tour.golang.org/concurrency/7>
+    * <https://tour.golang.org/concurrency/8>
  
  
 ##Tooling
@@ -125,6 +125,7 @@ Die context-Bibliothek ist Geeignet für produktiven Code mit mehreren 1000 Clie
 * Wie können System aufgebaut werden, welche diese Invarianten garantieren.
 
 Weitere Infos:
+
 * <https://github.com/golang/go/wiki/PackageManagementTools>
 
 ###Erfolg von GO

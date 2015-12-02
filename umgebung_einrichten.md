@@ -6,7 +6,7 @@
 ##Git und Mercurial installieren
 
 ```
-apt-get install git mercurial
+sudo apt-get install git mercurial
 ```
 
 
@@ -27,8 +27,10 @@ echo "46eecd290d8803887dec718c691cc243f2175fe0  go1.5.1.linux-amd64.tar.gz" | sh
 ##Entpacken nach /usr/local
 
 ```
-tar -C /usr/local -xzf go1.5.1.linux-amd64.tar.gz 
+sudo tar -C /usr/local -xzf go1.5.1.linux-amd64.tar.gz 
 ```
+
+Hinweis: Es ist nicht nötig es systemweit zu installieren. Es wird hier der offziellen Dokumentation gefolgt.
 
 
 ##PATH environment variable setzen

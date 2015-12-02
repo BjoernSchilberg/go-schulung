@@ -7,8 +7,8 @@ Richtig eingerichtete Editoren und IDEs sind wichtig und reduzieren das "Fruster
 
 ##Go for Visual Studio Code
 
-* https://www.visualstudio.com/de-de/products/code-vs.aspx
-* https://github.com/microsoft/vscode-go
+* <https://www.visualstudio.com/de-de/products/code-vs.aspx>
+* <https://github.com/microsoft/vscode-go>
 
 This extension adds rich language support for the Go language to VS Code, including:
 
@@ -43,7 +43,7 @@ missing tools for you.
 
 And for debugging:
 
-* delve: Follow the instructions at https://github.com/derekparker/delve/wiki/Building.
+* delve: Follow the instructions at <https://github.com/derekparker/delve/wiki/Building>.
 
 ### Missing
 
@@ -53,9 +53,9 @@ And for debugging:
 
 ##Atom Editor
 
-* https://atom.io/
-* https://atom.io/packages/go-plus
-* https://github.com/joefitzgerald/go-plus (Pivotal)
+* <https://atom.io>
+* <https://atom.io/packages/go-plus>
+* <https://github.com/joefitzgerald/go-plus> (Pivotal)
 
 
 ## Overview
@@ -86,22 +86,22 @@ The following features will be added soon:
 
 ###Weitere
 
-* https://atom.io/packages/go-rename
-* https://github.com/jstemmer/gotags
+* <https://atom.io/packages/go-rename>
+* <https://github.com/jstemmer/gotags>
 
 ###Querlesen
 
-* http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/
+* <http://marcio.io/2015/07/supercharging-atom-editor-for-go-development>
 
 
 ##Sublime Text
-* http://www.sublimetext.com
+* <http://www.sublimetext.com>
 
 ###sublime-build
-* https://github.com/golang/sublime-build (official Sublime Text package)
+* <https://github.com/golang/sublime-build> (official Sublime Text package)
 
 Nur "Build"-Unterstützung:
-* https://github.com/golang/sublime-build/blob/master/docs/commands.md
+* <https://github.com/golang/sublime-build/blob/master/docs/commands.md>
 
 * "build": executes go build -v
 * "run": executes go run -v {current_filename}
@@ -112,27 +112,29 @@ Nur "Build"-Unterstützung:
 
 ###GoSublime
 Für Sublime2 und Sublime3. Veraltet? Letzter Commit am 06.12.2014.
-* https://github.com/DisposaBoy/GoSublime 
+* <https://github.com/DisposaBoy/GoSublime>
 
 ###GoTools
 Nur für Sublime3. Alpha-Status.
-* https://github.com/ironcladlou/GoTools
+* <https://github.com/ironcladlou/GoTools>
 
+```
 go get -u -v github.com/nsf/gocode
 go get -u -v github.com/rogpeppe/godef
 go get -u -v golang.org/x/tools/cmd/goimports
 go get -u -v golang.org/x/tools/cmd/oracle
 go get -u -v golang.org/x/tools/cmd/gorename
+```
 
 ##IntelliJ IDEA
-* https://www.jetbrains.com/idea/
-* https://github.com/go-lang-plugin-org/go-lang-idea-plugin
-* http://munchpress.com/how-to-install-golang-idea-plugin-for-intellij-14-1-x/
+* <https://www.jetbrains.com/idea>
+* <https://github.com/go-lang-plugin-org/go-lang-idea-plugin>
+* <http://munchpress.com/how-to-install-golang-idea-plugin-for-intellij-14-1-x>
 
 Einrichtung könnte einfacher sein.
 
 ##Eclipse
-* https://github.com/GoClipse/goclipse
+* <https://github.com/GoClipse/goclipse>
 
 Scheinbar nur Unterstützung für Syntax-Highlighting und Einrückungen.
 

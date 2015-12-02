@@ -20,6 +20,11 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 * The Go Programming Language (Alan A. A. Donovan · Brian W. Kernighan)
     * <http://www.gopl.io/>
 
+##Go Proverbs: Several Short and Simple Thoughts on Go Development 
+
+* <http://go-proverbs.github.io/>
+
+
 ##Umgebung einrichten/Setup
 
 * Wie wird der Compiler eingerichtet.

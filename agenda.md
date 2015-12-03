@@ -62,6 +62,18 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 
 * <https://tour.golang.org>
 
+#Tag2
+
+##Einführung
+* Interfaces
+    * type assertion
+* Variadic function
+* builtin-functions
+* defer/panic/recover
+    * http://blog.golang.org/defer-panic-and-recover
+* Concurrency
+    * http://blog.golang.org/concurrency-is-not-parallelism
+
 
 ##Beispiele aus "A Tour of GO" auf dem realen Setup durchführen
 
@@ -93,7 +105,6 @@ Quelle: Profiling & Optimizing in Go / Brad Fitzpatrick
 * go Vet
 
 
-#Tag2
 
 
 ##Lernen an realen Beispielen

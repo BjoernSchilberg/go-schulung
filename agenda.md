@@ -74,6 +74,8 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 * Concurrency
     * <http://blog.golang.org/concurrency-is-not-parallelism>
     * Referenz-Typ: channel (unbuffered/buffered)
+        * <http://dave.cheney.net/2013/04/30/curious-channels>
+        * <http://dave.cheney.net/2014/03/19/channel-axioms>
 
 
 ##Beispiele aus "A Tour of GO" auf dem realen Setup durchführen

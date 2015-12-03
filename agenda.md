@@ -37,6 +37,26 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 * <https://golang.org/doc/install>
     * siehe [umgebung_einrichten.md](umgebung_einrichten.md)
 
+##Einführung
+
+* Datentypen 
+* Kontrollstrukturen (if, for, switch)
+* Arrays
+* Funktionen
+* Type
+* Referenzen
+    * Arrays/Slices
+    * Maps
+    * Funktionen
+* Rückgabewerte
+* Konstanten
+* Typen
+* Vererbung
+    * Embedding
+    * Compositing
+* Interfaces
+* Structural Typing
+
 
 ##Beispiele aus "A Tour of GO"
 

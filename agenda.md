@@ -73,7 +73,7 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
     * <http://blog.golang.org/defer-panic-and-recover>
 * Concurrency
     * <http://blog.golang.org/concurrency-is-not-parallelism>
-    * Referenz-Typ: channel
+    * Referenz-Typ: channel (unbuffered/buffered)
 
 
 ##Beispiele aus "A Tour of GO" auf dem realen Setup durchführen

@@ -70,9 +70,9 @@ Ziel: Zeigen wie echte Anwendungen mit go gebaut werden.
 * Variadic function
 * builtin-functions
 * defer/panic/recover
-    * http://blog.golang.org/defer-panic-and-recover
+    * <http://blog.golang.org/defer-panic-and-recover>
 * Concurrency
-    * http://blog.golang.org/concurrency-is-not-parallelism
+    * <http://blog.golang.org/concurrency-is-not-parallelism>
 
 
 ##Beispiele aus "A Tour of GO" auf dem realen Setup durchführen
